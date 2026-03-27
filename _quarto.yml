@@ -21,7 +21,6 @@ format:
     fontcolor: black
     fontsize: 18px
     css: styles.css
-    link-external-newwindow: true
     grid:
       body-width: 600px
 
