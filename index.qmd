@@ -1,0 +1,39 @@
+---
+title: "Jason Collins"
+about:
+  template: trestles
+  links:
+    - icon: twitter-x
+      text: Twitter/X
+      href: https://x.com/jasonacollins
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jasonallancollins/
+---
+
+Behavioural economics, data science and artificial intelligence. PhD economics and evolutionary biology.
+
+### Blog
+
+[blog.jcx.au](https://blog.jcx.au) — writing on behavioural economics, AI, and decision-making
+
+### Research
+
+[Academic publications](https://blog.jcx.au/research/) and [UTS work profile](https://profiles.uts.edu.au/Jason.Collins)
+
+### Teaching
+
+[Teaching](https://blog.jcx.au/teaching/) — course notes on behavioural economics, behavioural finance, trial design, and more
+
+### Writing
+
+[Non-academic writing](https://blog.jcx.au/writing/) — pieces for Behavioral Scientist, Works in Progress, and others
+
+### Consulting
+
+I am open to consulting and expert witness work in behavioural economics and human-AI interaction. Find me on [LinkedIn](https://www.linkedin.com/in/jasonallancollins/).
+
+---
+
+<p align="center" style="margin-left: 10px; margin-right: 10px;">BE NOTIFIED OF NEW POSTS VIA EMAIL
+<iframe src="https://newsletter.jasoncollins.blog/embed" width="360" height="110" style="border:0px; background:white;" frameborder="0" scrolling="no"></iframe></p>

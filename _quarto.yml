@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Jason Collins"
+  site-url: https://www.jcx.au
+  description: "Behavioural economics, data science and artificial intelligence."
+  page-footer:
+    center:
+      - text: "Copyright: CC-BY"
+        href: https://creativecommons.org/licenses/by/4.0/
+  open-graph: true
+  twitter-card: true
+  favicon: logo.png
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    fontcolor: black
+    fontsize: 18px
+    css: styles.css
+    link-external-newwindow: true
+    grid:
+      body-width: 600px
+
+editor: source
